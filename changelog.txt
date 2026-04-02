@@ -1,0 +1,4 @@
+Feature: F0001
+    Change the app name as ShareMark
+Feature: F0002
+    use icon.jpeg as app icon. if the size is not as per standards convert to standards.

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Bookmark icon centered in the safe zone (66dp centered in 108dp) -->
+    <group
+        android:translateX="27"
+        android:translateY="27">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M27,4.5L27,46.8C27,48.6 25.2,49.8 23.55,49.2L15,45L6.45,49.2C4.8,49.8 3,48.6 3,46.8L3,4.5C3,2.85 4.35,1.5 6,1.5L24,1.5C25.65,1.5 27,2.85 27,4.5zM24,4.5L6,4.5L6,43.35L13.95,39.6C14.55,39.3 15.45,39.3 16.05,39.6L24,43.35L24,4.5z"/>
+    </group>
+</vector>
